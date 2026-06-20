@@ -9,6 +9,8 @@ icrnn       ginipisu  patience 8  epoch 65  pc
 
 CNN_lstm    Nigeria patience 7 epoch 50    colab
 
+CNN_lstm    ginipisu patience 7 epoch 50    colab
+
 
 
 
